@@ -10,7 +10,7 @@
 i = int(input("Victor sat in the wagon number: "))
 j = int(input("Wagon number: "))
 
-if i == j:
+if i == j and j % 2 != 0:
     print('Have no idea how many wagons in the train')
 else:
     print('Wagons quantity: ', (i + j - 1))
