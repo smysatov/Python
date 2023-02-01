@@ -14,3 +14,14 @@
 # Каждое число – среднесуточная температура в соответствующий день.
 # Температуры – целые числа и лежат в диапазоне от -50 до +50 градусов
 
+n = int(input())
+maximum_row, current_row = 0, 0
+for i in range(n):
+    temp = int(input())
+    if temp > 0:
+        current_row += 1
+    else:
+        if maximum_row <= current_row:
+            maximum_row = current_row
+            current_row = 0
+print(maximum_row)
