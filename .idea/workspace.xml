@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc12c72a-cc81-44ed-862f-f3a3b501c06b" name="Changes" comment="Homework_2" />
+    <list default="true" id="cc12c72a-cc81-44ed-862f-f3a3b501c06b" name="Changes" comment="Seminar_3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_3/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_3/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_3/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_3/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_3/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_3/Task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_3/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_3/Task_4.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,16 +26,16 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Seminar_3" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -184,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675437213489</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Seminar_3">
+      <created>1675437507470</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675437507470</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +233,7 @@
     <MESSAGE value="Homework_1" />
     <MESSAGE value="Seminar_2" />
     <MESSAGE value="Homework_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework_2" />
+    <MESSAGE value="Seminar_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar_3" />
   </component>
 </project>
