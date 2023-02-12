@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc12c72a-cc81-44ed-862f-f3a3b501c06b" name="Changes" comment="Seminar_3">
-      <change afterPath="$PROJECT_DIR$/Homework_3/Task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework_3/Task_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_4/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_4/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_4/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_4/Task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_4/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_4/Task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Seminar_4/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_4/Task_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +218,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="Seminar_3" />
+                        <option value="Seminar_4" />
                       </list>
                     </value>
                   </entry>
