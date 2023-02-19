@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc12c72a-cc81-44ed-862f-f3a3b501c06b" name="Changes" comment="Seminar_7">
-      <change afterPath="$PROJECT_DIR$/Seminar_7/Task_5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar_7/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_7/Task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar_7/Task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_7/Task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seminar_7/Task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Seminar_7/Task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework_7/Task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_7/Task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework_7/Task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework_7/Task_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676810523982</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Seminar_7">
+      <created>1676827301951</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1676827301951</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
